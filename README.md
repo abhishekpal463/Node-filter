@@ -1,2 +1,2 @@
 # Node-filter
-Task
+Open index.js to see my code of filtering.
